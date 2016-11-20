@@ -1,0 +1,209 @@
+
+/***************************************************************************************/
+/*
+/*		Author: AS Designing
+/*		Author URI: http://www.asdesigning.com
+/*		Theme URI: http://www.astemplates.com
+/*		
+/*		Note: Design for Large desktop
+/*
+/***************************************************************************************/
+
+@media (max-width: 1199px) 
+{
+
+	h1,
+	 h2
+	{
+		font-size: 28px;
+	}
+	
+	.navigation ul.sf-menu > li > a,
+	.navigation ul.sf-menu > li > span
+	{
+		padding: 0 20px !important;
+	}
+	
+	.moduletable.social ul li.separator
+	{
+		display: block;
+	}
+	
+	#header-top-row .moduletable.social li a
+	{
+		font-size: 10px;
+		height: 21px;
+		line-height: 21px;
+		margin-left: 3px;
+		margin-top: 1px;
+		width: 20px;
+	}
+	
+	#header-row .call-now .mod-custom
+	{
+		margin-top: 22px;
+	}
+	
+	#header-row #logo
+	{
+		margin-top: 5px;
+	}
+	
+	.scrool-background #logo img 
+	{
+		max-width: 60%;
+	}
+		
+	.slide_title
+	{
+		font-size: 100px;
+	}
+	
+	#camera-slideshow
+	{
+		min-height: inherit;
+	}
+	
+	.camera_caption a.readmore
+	{
+		right: 60px;
+	}
+	
+	.mod-newsflash-adv__links .item_content ul li a
+	{
+		font-size: 12px;
+	}
+	
+	.page-gallery .item_title
+	{
+		padding-top: 20px;
+	}
+	
+	.masonry_gallery .mod-newsflash-adv .item_content
+	{
+		text-align: center;
+	}
+	
+	.page-blog .cols-2 .item_img
+	{
+		max-width: 50%;
+	}
+	
+	.masonry_gallery .mod-newsflash-adv .item_content .readmore
+	{
+		float: none;
+		padding-right: 0px;
+	}
+	
+	.masonry_gallery .mod-newsflash-adv .item_content .item_title
+	{
+		padding-top: 50px;
+	}
+	
+	.page-gallery .item_introtext,
+	 .masonry_gallery .mod-newsflash-adv .item_content .item_introtext
+	{
+		display: none;
+	}
+	
+	#footer-row .moduletable.social li a
+	{
+		font-size: 40px;
+		height: 85px;
+		width: 85px;
+		line-height: 85px;
+	}
+	
+	/*************** Virtue Mart ********************************************************/	
+			
+	.cart-summary tr td 
+	{
+    	padding: 10px;
+	}
+	
+	.vm-col-4 select,
+	.vm-col-3 select
+	{
+		width: 100%;
+	}
+	
+	div.product.vm-col-2
+	{
+		margin: 8px !important;
+	}
+	
+	div.product.vm-col-3
+	{
+		margin: 5px !important;
+	}
+	
+	div.product.vm-col-4
+	{
+		margin: 4px !important;
+	}
+	
+	.featured-view .spacer,
+	 .latest-view .spacer,
+	 .topten-view .spacer,
+	 .recent-view .spacer,
+	 .related-products-view .spacer,
+	 .browse-view .row .product .spacer
+	{
+		overflow: hidden;
+		padding: 3em 2em 4em;
+	}
+	
+	.vm-product-rating-container
+	{
+		text-align: center;
+	}
+	
+	.featured-view .vm2-lowstock,
+	.featured-view .vm2-nostock,
+	.featured-view .vm2-normalstock,
+	.latest-view .vm2-lowstock,
+	.latest-view .vm2-nostock,
+	.latest-view .vm2-normalstock,
+	.topten-view .vm2-lowstock,
+	.topten-view .vm2-nostock,
+	.topten-view .vm2-normalstock,
+	.recent-view .vm2-lowstock,
+	.recent-view .vm2-nostock,
+	.recent-view .vm2-normalstock,
+	.related-view .vm2-lowstock,
+	.related-view .vm2-nostock,
+	.related-view .vm2-normalstock
+	{
+		float: none;
+	}
+	
+	p.product_s_desc
+	{
+		height: auto;
+		min-height: 45px;
+	}
+	
+	span.quantity-box,
+	span.quantity-controls, 
+	span.addtocart-button
+	{
+		margin: 10px 2px;
+	}
+	
+	.featured-view .spacer span,
+	.latest-view .spacer span,
+	.topten-view .spacer span,
+	.recent-view .spacer span,
+	.related-products-view .spacer span,
+	.browse-view .row .product .spacer span
+	{
+		font-size: 1em;
+	}
+	
+	.billto-shipto .width50
+	{
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+}
